@@ -32,3 +32,8 @@ To retrain the model and reproduce the results:
   1. Open the Jupyter Notebook: Weather Type prediction.ipynb.
   2. Run all cells sequentially.
   3. The trained model will be saved as weather_prediction_type.joblib.
+
+
+**License**
+
+Distributed under the MIT License. See LICENSE.md for more information.
